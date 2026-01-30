@@ -22,6 +22,8 @@ This project was built as a hands-on infrastructure exercise suitable for DevOps
 
 ## Architecture
 
+```text
+
 Client Browser
 |
 v
@@ -35,6 +37,7 @@ WordPress
 |
 v
 MySQL
+```
 
 ---
 
